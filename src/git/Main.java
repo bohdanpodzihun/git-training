@@ -13,6 +13,7 @@ public class Main {
 
         double height = 1.93;
         System.out.println("height : " + height);
-        System.out.println("i should delete this");
+        System.out.println();
+        System.out.println("See you again");
     }
 }
