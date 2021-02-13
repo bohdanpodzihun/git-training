@@ -10,5 +10,8 @@ public class Main {
         String name = "podz1";
 
         System.out.println(name + " " + age + "y.o.");
+
+        double height = 1.93;
+        System.out.println("height : " + height);
     }
 }
